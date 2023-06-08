@@ -5,7 +5,7 @@ colorFrom: yellow
 colorTo: gray
 sdk: streamlit
 sdk_version: 1.21.0
-app_file: app.py
+app_file: random_arxiv.py
 pinned: false
 license: mit
 ---
